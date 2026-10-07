@@ -1,0 +1,32 @@
+import math
+GRID_SIZE_M = 100
+GRID_RESOLUTION_M = 0.1
+GRID_CELLS = int(GRID_SIZE_M / GRID_RESOLUTION_M) ** 2
+LIDAR_RANGE_M = 12
+LIDAR_RPM = 10
+LIDAR_POINTS_PER_SCAN = int(LIDAR_RANGE_M * 2 * math.pi / GRID_RESOLUTION_M)
+SLAM_UPDATE_HZ = 10
+POSE_ACCURACY_CM = 5
+PATH_PLANNING_TIME_MS = 50
+DWA_LOOKAHEAD_S = 2.0
+PID_KP = 1.0
+PID_KI = 0.1
+PID_KD = 0.05
+MAX_SPEED_MS = 1.0
+MAX_ACCELERATION = 0.5
+CAN_BAUD = 500000
+MAVLINK_HZ = 50
+POWER_W = 15
+MASS_G = 500
+COST_SW = 0
+COST_LICENSE = 500000
+MARKET = 50000
+print("=== АвтоПилот-5 ===")
+print(f"Сетка: {GRID_SIZE_M}×{GRID_SIZE_M} м, {GRID_CELLS} ячеек")
+print(f"LiDAR: {LIDAR_RANGE_M} м, {LIDAR_RPM} об/с")
+print(f"SLAM: {POSE_ACCURACY_CM} см, {SLAM_UPDATE_HZ} Гц")
+print(f"Планирование: {PATH_PLANNING_TIME_MS} мс")
+print(f"PID: Kp={PID_KP}, Ki={PID_KI}, Kd={PID_KD}")
+print(f"CAN: {CAN_BAUD/1e3:.0f} кбит/с, MAVLink: {MAVLINK_HZ} Гц")
+print(f"Масса: {MASS_G} г")
+print(f"Рынок: {MARKET} × {COST_LICENSE/1e3:.0f} тыс. = {MARKET*COST_LICENSE/1e9:.0f} млрд ₽")
