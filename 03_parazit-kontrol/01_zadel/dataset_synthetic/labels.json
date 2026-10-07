@@ -1,0 +1,4532 @@
+[
+  {
+    "image": "synth_0000.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 516,
+        "cy": 264,
+        "a": 25,
+        "b": 12,
+        "angle": 60.06755000502393,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 180,
+        "cy": 199,
+        "a": 35,
+        "b": 6,
+        "angle": 129.95977900802845,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 463,
+        "cy": 343,
+        "a": 16,
+        "b": 9,
+        "angle": 111.14667173298898,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 363,
+        "cy": 71,
+        "a": 26,
+        "b": 13,
+        "angle": 52.42124523564755,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0001.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 293,
+        "cy": 369,
+        "a": 39,
+        "b": 7,
+        "angle": 154.7892732125377,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0002.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 437,
+        "cy": 138,
+        "a": 28,
+        "b": 6,
+        "angle": 69.3749704571849,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0003.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 504,
+        "cy": 313,
+        "a": 29,
+        "b": 7,
+        "angle": 163.67767237418076,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0004.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 155,
+        "cy": 309,
+        "a": 36,
+        "b": 6,
+        "angle": 139.52390820500062,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 211,
+        "cy": 251,
+        "a": 18,
+        "b": 12,
+        "angle": 102.67991539297189,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0005.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 542,
+        "cy": 90,
+        "a": 29,
+        "b": 5,
+        "angle": 2.8145532134149076,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 570,
+        "cy": 393,
+        "a": 15,
+        "b": 12,
+        "angle": 0.9939810822484318,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 188,
+        "cy": 130,
+        "a": 22,
+        "b": 7,
+        "angle": 142.231597295617,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 428,
+        "cy": 310,
+        "a": 24,
+        "b": 11,
+        "angle": 117.19386459035,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 77,
+        "cy": 184,
+        "a": 23,
+        "b": 12,
+        "angle": 80.90112134487661,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0006.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 511,
+        "cy": 180,
+        "a": 15,
+        "b": 9,
+        "angle": 101.02989556250932,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 447,
+        "cy": 408,
+        "a": 23,
+        "b": 14,
+        "angle": 4.5754428139371335,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 510,
+        "cy": 228,
+        "a": 21,
+        "b": 5,
+        "angle": 56.5840765937388,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 145,
+        "cy": 271,
+        "a": 19,
+        "b": 11,
+        "angle": 108.7951282700071,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0007.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 77,
+        "cy": 157,
+        "a": 26,
+        "b": 8,
+        "angle": 160.660619728196,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 380,
+        "cy": 177,
+        "a": 37,
+        "b": 13,
+        "angle": 57.2406254949355,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 274,
+        "cy": 426,
+        "a": 39,
+        "b": 8,
+        "angle": 63.46239414015042,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 308,
+        "cy": 408,
+        "a": 20,
+        "b": 12,
+        "angle": 96.13609548757955,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 367,
+        "cy": 214,
+        "a": 15,
+        "b": 7,
+        "angle": 48.494220083733865,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0008.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 435,
+        "cy": 162,
+        "a": 19,
+        "b": 5,
+        "angle": 179.59328730880952,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 162,
+        "cy": 51,
+        "a": 16,
+        "b": 10,
+        "angle": 5.94913192209871,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 274,
+        "cy": 175,
+        "a": 16,
+        "b": 9,
+        "angle": 88.10149684996134,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0009.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 233,
+        "cy": 172,
+        "a": 31,
+        "b": 10,
+        "angle": 66.20096388946558,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0010.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 236,
+        "cy": 375,
+        "a": 30,
+        "b": 7,
+        "angle": 106.36072977388352,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 452,
+        "cy": 395,
+        "a": 17,
+        "b": 7,
+        "angle": 62.75987771251129,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 538,
+        "cy": 177,
+        "a": 21,
+        "b": 6,
+        "angle": 150.78781906331903,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0011.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 51,
+        "cy": 353,
+        "a": 26,
+        "b": 9,
+        "angle": 162.0752502893995,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 58,
+        "cy": 282,
+        "a": 17,
+        "b": 7,
+        "angle": 130.6720221966431,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 180,
+        "cy": 201,
+        "a": 36,
+        "b": 12,
+        "angle": 159.79861777697278,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 469,
+        "cy": 153,
+        "a": 34,
+        "b": 7,
+        "angle": 67.01089798111376,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0012.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 447,
+        "cy": 326,
+        "a": 30,
+        "b": 8,
+        "angle": 65.96438122491479,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 441,
+        "cy": 184,
+        "a": 17,
+        "b": 5,
+        "angle": 55.45094253343006,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0013.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 87,
+        "cy": 279,
+        "a": 27,
+        "b": 7,
+        "angle": 160.5683799318804,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 332,
+        "cy": 76,
+        "a": 16,
+        "b": 9,
+        "angle": 90.47467675893458,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0014.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 565,
+        "cy": 84,
+        "a": 31,
+        "b": 5,
+        "angle": 179.01909194352137,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 207,
+        "cy": 95,
+        "a": 35,
+        "b": 10,
+        "angle": 66.62856604598,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0015.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 165,
+        "cy": 240,
+        "a": 35,
+        "b": 11,
+        "angle": 48.325474240228225,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 372,
+        "cy": 177,
+        "a": 32,
+        "b": 13,
+        "angle": 71.044464025705,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0016.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 337,
+        "cy": 391,
+        "a": 37,
+        "b": 6,
+        "angle": 45.74945683255298,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0017.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 295,
+        "cy": 225,
+        "a": 21,
+        "b": 14,
+        "angle": 145.68500798613246,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 457,
+        "cy": 62,
+        "a": 21,
+        "b": 13,
+        "angle": 113.02099469075449,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0018.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0019.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 520,
+        "cy": 192,
+        "a": 16,
+        "b": 6,
+        "angle": 78.92534214325565,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0020.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0021.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 363,
+        "cy": 107,
+        "a": 36,
+        "b": 5,
+        "angle": 6.722673974858595,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 103,
+        "cy": 150,
+        "a": 15,
+        "b": 12,
+        "angle": 138.59883955774995,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0022.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 318,
+        "cy": 419,
+        "a": 24,
+        "b": 7,
+        "angle": 143.13351505836667,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 107,
+        "cy": 395,
+        "a": 19,
+        "b": 14,
+        "angle": 173.27671464202652,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0023.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 562,
+        "cy": 288,
+        "a": 16,
+        "b": 10,
+        "angle": 128.62726608601122,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0024.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 125,
+        "cy": 203,
+        "a": 30,
+        "b": 7,
+        "angle": 136.41229988358643,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 334,
+        "cy": 269,
+        "a": 19,
+        "b": 5,
+        "angle": 56.054395690432955,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 502,
+        "cy": 253,
+        "a": 30,
+        "b": 14,
+        "angle": 137.40559614070398,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 390,
+        "cy": 88,
+        "a": 18,
+        "b": 5,
+        "angle": 83.64128632913005,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0025.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 491,
+        "cy": 145,
+        "a": 15,
+        "b": 12,
+        "angle": 118.56485369141011,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0026.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 476,
+        "cy": 150,
+        "a": 26,
+        "b": 7,
+        "angle": 147.67683187882824,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 217,
+        "cy": 379,
+        "a": 25,
+        "b": 6,
+        "angle": 7.0133638158420535,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 84,
+        "cy": 264,
+        "a": 31,
+        "b": 14,
+        "angle": 57.41561345287703,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 467,
+        "cy": 164,
+        "a": 23,
+        "b": 11,
+        "angle": 21.269668971898128,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 550,
+        "cy": 163,
+        "a": 27,
+        "b": 12,
+        "angle": 132.31278788469945,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0027.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 145,
+        "cy": 201,
+        "a": 37,
+        "b": 9,
+        "angle": 42.94743476226123,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 574,
+        "cy": 328,
+        "a": 39,
+        "b": 7,
+        "angle": 18.56229639046787,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 322,
+        "cy": 418,
+        "a": 34,
+        "b": 13,
+        "angle": 57.608928185510116,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0028.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0029.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 555,
+        "cy": 416,
+        "a": 30,
+        "b": 9,
+        "angle": 16.506746506526596,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 445,
+        "cy": 74,
+        "a": 34,
+        "b": 9,
+        "angle": 135.4274152987824,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 200,
+        "cy": 193,
+        "a": 39,
+        "b": 11,
+        "angle": 16.417098548764265,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 91,
+        "cy": 235,
+        "a": 21,
+        "b": 14,
+        "angle": 79.47549024720786,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 264,
+        "cy": 270,
+        "a": 25,
+        "b": 6,
+        "angle": 174.3573499153443,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0030.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 442,
+        "cy": 332,
+        "a": 16,
+        "b": 9,
+        "angle": 92.39871036463072,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0031.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 560,
+        "cy": 376,
+        "a": 39,
+        "b": 8,
+        "angle": 63.03928440605644,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 301,
+        "cy": 324,
+        "a": 26,
+        "b": 10,
+        "angle": 126.91518557339877,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 580,
+        "cy": 88,
+        "a": 17,
+        "b": 6,
+        "angle": 84.35891555894273,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0032.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0033.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 418,
+        "cy": 361,
+        "a": 15,
+        "b": 10,
+        "angle": 78.54044968918008,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 107,
+        "cy": 93,
+        "a": 27,
+        "b": 9,
+        "angle": 7.812140993671097,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 262,
+        "cy": 252,
+        "a": 19,
+        "b": 8,
+        "angle": 99.69377119223775,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 581,
+        "cy": 96,
+        "a": 23,
+        "b": 5,
+        "angle": 125.23476401723109,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0034.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 61,
+        "cy": 379,
+        "a": 30,
+        "b": 12,
+        "angle": 71.01392374946337,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0035.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 139,
+        "cy": 185,
+        "a": 32,
+        "b": 9,
+        "angle": 175.39106537990997,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 551,
+        "cy": 194,
+        "a": 23,
+        "b": 5,
+        "angle": 74.01720975699352,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0036.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0037.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0038.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 291,
+        "cy": 300,
+        "a": 27,
+        "b": 9,
+        "angle": 4.746055409505361,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 423,
+        "cy": 114,
+        "a": 32,
+        "b": 5,
+        "angle": 67.81301458882933,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 331,
+        "cy": 112,
+        "a": 39,
+        "b": 10,
+        "angle": 149.2495597271726,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 510,
+        "cy": 147,
+        "a": 23,
+        "b": 7,
+        "angle": 24.093381384113975,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0039.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 127,
+        "cy": 415,
+        "a": 15,
+        "b": 7,
+        "angle": 49.45172346466358,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 495,
+        "cy": 418,
+        "a": 22,
+        "b": 6,
+        "angle": 64.46928924591128,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 121,
+        "cy": 88,
+        "a": 16,
+        "b": 10,
+        "angle": 139.01731051241507,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 355,
+        "cy": 317,
+        "a": 15,
+        "b": 10,
+        "angle": 174.23527777916814,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 450,
+        "cy": 161,
+        "a": 29,
+        "b": 11,
+        "angle": 135.9247060212514,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0040.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 484,
+        "cy": 357,
+        "a": 39,
+        "b": 10,
+        "angle": 81.1638805348988,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 384,
+        "cy": 79,
+        "a": 37,
+        "b": 14,
+        "angle": 155.22546757441413,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 182,
+        "cy": 334,
+        "a": 18,
+        "b": 14,
+        "angle": 166.785772529069,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 379,
+        "cy": 322,
+        "a": 34,
+        "b": 12,
+        "angle": 8.255027952833931,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0041.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 160,
+        "cy": 298,
+        "a": 37,
+        "b": 11,
+        "angle": 105.25789907084766,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0042.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 409,
+        "cy": 233,
+        "a": 39,
+        "b": 7,
+        "angle": 157.37716887379509,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0043.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 100,
+        "cy": 326,
+        "a": 19,
+        "b": 6,
+        "angle": 50.14626102575255,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0044.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0045.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 95,
+        "cy": 83,
+        "a": 31,
+        "b": 14,
+        "angle": 124.27106915328575,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 122,
+        "cy": 331,
+        "a": 39,
+        "b": 13,
+        "angle": 123.80124907729494,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0046.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 306,
+        "cy": 57,
+        "a": 31,
+        "b": 7,
+        "angle": 33.21378348414792,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0047.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 77,
+        "cy": 127,
+        "a": 38,
+        "b": 6,
+        "angle": 134.5447688640762,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 575,
+        "cy": 236,
+        "a": 38,
+        "b": 7,
+        "angle": 128.40292545921943,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0048.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 534,
+        "cy": 77,
+        "a": 24,
+        "b": 11,
+        "angle": 57.97424980497209,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 280,
+        "cy": 135,
+        "a": 26,
+        "b": 13,
+        "angle": 160.29491053318108,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0049.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 277,
+        "cy": 160,
+        "a": 36,
+        "b": 6,
+        "angle": 100.39360787107873,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 418,
+        "cy": 285,
+        "a": 33,
+        "b": 14,
+        "angle": 51.0796630437704,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0050.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 426,
+        "cy": 338,
+        "a": 35,
+        "b": 10,
+        "angle": 40.55990358825508,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 552,
+        "cy": 161,
+        "a": 18,
+        "b": 12,
+        "angle": 161.41777643275654,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0051.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 371,
+        "cy": 269,
+        "a": 25,
+        "b": 8,
+        "angle": 0.954001151568975,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 167,
+        "cy": 418,
+        "a": 38,
+        "b": 10,
+        "angle": 120.35577958639757,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0052.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 349,
+        "cy": 182,
+        "a": 20,
+        "b": 14,
+        "angle": 58.262262552763865,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 274,
+        "cy": 69,
+        "a": 31,
+        "b": 5,
+        "angle": 109.91160763949387,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0053.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 308,
+        "cy": 210,
+        "a": 20,
+        "b": 6,
+        "angle": 81.76823499943794,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0054.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0055.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 378,
+        "cy": 322,
+        "a": 23,
+        "b": 12,
+        "angle": 109.09833859005096,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 468,
+        "cy": 143,
+        "a": 31,
+        "b": 9,
+        "angle": 149.51149340179126,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 285,
+        "cy": 383,
+        "a": 35,
+        "b": 12,
+        "angle": 178.36730576233032,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0056.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 398,
+        "cy": 377,
+        "a": 25,
+        "b": 13,
+        "angle": 135.09034645775643,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 340,
+        "cy": 262,
+        "a": 19,
+        "b": 9,
+        "angle": 42.42451429169996,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0057.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 344,
+        "cy": 153,
+        "a": 28,
+        "b": 7,
+        "angle": 112.33827795273076,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 72,
+        "cy": 112,
+        "a": 29,
+        "b": 5,
+        "angle": 41.79828512642712,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 274,
+        "cy": 358,
+        "a": 22,
+        "b": 12,
+        "angle": 112.36283926451858,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0058.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 338,
+        "cy": 280,
+        "a": 18,
+        "b": 10,
+        "angle": 135.4325616069881,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 460,
+        "cy": 338,
+        "a": 18,
+        "b": 10,
+        "angle": 128.53153480025054,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 566,
+        "cy": 172,
+        "a": 24,
+        "b": 5,
+        "angle": 18.524885533946104,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0059.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 64,
+        "cy": 206,
+        "a": 22,
+        "b": 9,
+        "angle": 87.5443467592094,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0060.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 332,
+        "cy": 118,
+        "a": 34,
+        "b": 14,
+        "angle": 61.65436629213781,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 183,
+        "cy": 249,
+        "a": 37,
+        "b": 14,
+        "angle": 170.51100113012677,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 445,
+        "cy": 267,
+        "a": 27,
+        "b": 12,
+        "angle": 91.05996219920388,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 509,
+        "cy": 405,
+        "a": 30,
+        "b": 8,
+        "angle": 142.21523468233562,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0061.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 454,
+        "cy": 395,
+        "a": 28,
+        "b": 8,
+        "angle": 22.43928261658803,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 50,
+        "cy": 368,
+        "a": 36,
+        "b": 11,
+        "angle": 40.93121175788027,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 480,
+        "cy": 358,
+        "a": 23,
+        "b": 14,
+        "angle": 144.51362074764205,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 166,
+        "cy": 203,
+        "a": 23,
+        "b": 7,
+        "angle": 71.6703648463698,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0062.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 228,
+        "cy": 231,
+        "a": 38,
+        "b": 13,
+        "angle": 89.70619909310635,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 550,
+        "cy": 393,
+        "a": 15,
+        "b": 5,
+        "angle": 140.48922735829578,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 205,
+        "cy": 419,
+        "a": 35,
+        "b": 5,
+        "angle": 32.04647403655526,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0063.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 264,
+        "cy": 428,
+        "a": 38,
+        "b": 7,
+        "angle": 62.88965982887994,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 334,
+        "cy": 354,
+        "a": 27,
+        "b": 12,
+        "angle": 105.74164876213338,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 420,
+        "cy": 224,
+        "a": 32,
+        "b": 6,
+        "angle": 96.20206042630444,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0064.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0065.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 507,
+        "cy": 415,
+        "a": 16,
+        "b": 5,
+        "angle": 4.569544018862075,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0066.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 492,
+        "cy": 304,
+        "a": 22,
+        "b": 10,
+        "angle": 61.06882426131437,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 278,
+        "cy": 116,
+        "a": 33,
+        "b": 5,
+        "angle": 100.2098852610059,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0067.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 56,
+        "cy": 379,
+        "a": 21,
+        "b": 5,
+        "angle": 37.41952592628492,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 196,
+        "cy": 161,
+        "a": 33,
+        "b": 8,
+        "angle": 115.72660145056558,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 131,
+        "cy": 51,
+        "a": 15,
+        "b": 9,
+        "angle": 61.52712330561768,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 435,
+        "cy": 244,
+        "a": 37,
+        "b": 11,
+        "angle": 48.25145534811773,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 310,
+        "cy": 342,
+        "a": 20,
+        "b": 13,
+        "angle": 78.502775244357,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0068.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 575,
+        "cy": 58,
+        "a": 22,
+        "b": 6,
+        "angle": 114.0260795687065,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 408,
+        "cy": 250,
+        "a": 36,
+        "b": 10,
+        "angle": 150.28744262387383,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 53,
+        "cy": 203,
+        "a": 27,
+        "b": 6,
+        "angle": 49.01531877348641,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0069.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 202,
+        "cy": 427,
+        "a": 26,
+        "b": 11,
+        "angle": 19.184171423161384,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 391,
+        "cy": 76,
+        "a": 39,
+        "b": 10,
+        "angle": 131.79322412263122,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 317,
+        "cy": 286,
+        "a": 39,
+        "b": 9,
+        "angle": 31.566830152220927,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0070.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 179,
+        "cy": 359,
+        "a": 25,
+        "b": 5,
+        "angle": 14.903760226522763,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 341,
+        "cy": 420,
+        "a": 35,
+        "b": 12,
+        "angle": 78.69481134430383,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0071.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 455,
+        "cy": 118,
+        "a": 38,
+        "b": 5,
+        "angle": 48.584020030595084,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 197,
+        "cy": 276,
+        "a": 34,
+        "b": 5,
+        "angle": 89.34592449622254,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0072.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 266,
+        "cy": 110,
+        "a": 25,
+        "b": 12,
+        "angle": 78.26892094867432,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 88,
+        "cy": 340,
+        "a": 17,
+        "b": 6,
+        "angle": 143.89485821441627,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0073.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 93,
+        "cy": 354,
+        "a": 31,
+        "b": 14,
+        "angle": 124.3008418402153,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 546,
+        "cy": 352,
+        "a": 26,
+        "b": 12,
+        "angle": 136.51063451022267,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0074.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 538,
+        "cy": 414,
+        "a": 29,
+        "b": 14,
+        "angle": 105.88747625458758,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 450,
+        "cy": 331,
+        "a": 35,
+        "b": 10,
+        "angle": 164.78789356584753,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0075.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 421,
+        "cy": 152,
+        "a": 31,
+        "b": 12,
+        "angle": 41.40159071178655,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 237,
+        "cy": 350,
+        "a": 16,
+        "b": 7,
+        "angle": 125.33197965806515,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 232,
+        "cy": 413,
+        "a": 21,
+        "b": 12,
+        "angle": 97.1084326275607,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 398,
+        "cy": 259,
+        "a": 15,
+        "b": 14,
+        "angle": 157.79976801524091,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 499,
+        "cy": 360,
+        "a": 17,
+        "b": 14,
+        "angle": 178.2614364015199,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0076.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0077.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0078.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0079.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0080.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 426,
+        "cy": 315,
+        "a": 39,
+        "b": 11,
+        "angle": 94.05345449421415,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 52,
+        "cy": 191,
+        "a": 38,
+        "b": 6,
+        "angle": 53.33546168207822,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0081.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0082.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0083.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 189,
+        "cy": 236,
+        "a": 19,
+        "b": 9,
+        "angle": 16.093980416206712,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 489,
+        "cy": 368,
+        "a": 28,
+        "b": 12,
+        "angle": 84.13227202497654,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 275,
+        "cy": 202,
+        "a": 21,
+        "b": 8,
+        "angle": 11.697553706920925,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0084.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 156,
+        "cy": 275,
+        "a": 39,
+        "b": 14,
+        "angle": 6.611748736790453,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 555,
+        "cy": 308,
+        "a": 38,
+        "b": 10,
+        "angle": 144.13854368337752,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0085.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 69,
+        "cy": 427,
+        "a": 31,
+        "b": 14,
+        "angle": 92.74462637665066,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0086.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 406,
+        "cy": 147,
+        "a": 25,
+        "b": 13,
+        "angle": 70.41055789446837,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 244,
+        "cy": 275,
+        "a": 26,
+        "b": 14,
+        "angle": 145.71289345047805,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 89,
+        "cy": 74,
+        "a": 19,
+        "b": 6,
+        "angle": 73.52157835272577,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 87,
+        "cy": 377,
+        "a": 19,
+        "b": 14,
+        "angle": 95.86845349213718,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 86,
+        "cy": 365,
+        "a": 30,
+        "b": 9,
+        "angle": 178.46556032610866,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0087.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 338,
+        "cy": 311,
+        "a": 38,
+        "b": 7,
+        "angle": 156.26894472927845,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 141,
+        "cy": 402,
+        "a": 30,
+        "b": 13,
+        "angle": 60.12159817414282,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0088.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 80,
+        "cy": 72,
+        "a": 24,
+        "b": 14,
+        "angle": 147.59044513345802,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 486,
+        "cy": 207,
+        "a": 21,
+        "b": 6,
+        "angle": 147.2340643414312,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 573,
+        "cy": 344,
+        "a": 16,
+        "b": 5,
+        "angle": 100.7719762155893,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0089.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0090.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 282,
+        "cy": 273,
+        "a": 16,
+        "b": 9,
+        "angle": 18.451751038322264,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0091.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 373,
+        "cy": 268,
+        "a": 31,
+        "b": 10,
+        "angle": 127.54296082847328,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0092.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0093.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0094.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 509,
+        "cy": 56,
+        "a": 25,
+        "b": 5,
+        "angle": 58.24983944691743,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 128,
+        "cy": 107,
+        "a": 37,
+        "b": 14,
+        "angle": 28.608890989816175,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 334,
+        "cy": 53,
+        "a": 31,
+        "b": 7,
+        "angle": 81.24966437934158,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 88,
+        "cy": 320,
+        "a": 37,
+        "b": 8,
+        "angle": 151.19048964104493,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 133,
+        "cy": 71,
+        "a": 25,
+        "b": 7,
+        "angle": 171.15544120507386,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0095.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 576,
+        "cy": 211,
+        "a": 17,
+        "b": 5,
+        "angle": 117.30002856765931,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 573,
+        "cy": 323,
+        "a": 29,
+        "b": 12,
+        "angle": 28.664232890267606,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 358,
+        "cy": 57,
+        "a": 29,
+        "b": 6,
+        "angle": 136.9843183697398,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0096.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0097.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 322,
+        "cy": 285,
+        "a": 34,
+        "b": 8,
+        "angle": 100.51428106497563,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 550,
+        "cy": 166,
+        "a": 16,
+        "b": 12,
+        "angle": 77.984414814898,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 113,
+        "cy": 254,
+        "a": 31,
+        "b": 12,
+        "angle": 83.62774739444583,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 369,
+        "cy": 387,
+        "a": 28,
+        "b": 10,
+        "angle": 52.49926416767458,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0098.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 95,
+        "cy": 209,
+        "a": 29,
+        "b": 10,
+        "angle": 111.26803217726143,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 291,
+        "cy": 402,
+        "a": 16,
+        "b": 5,
+        "angle": 15.815969846070004,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0099.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0100.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0101.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 139,
+        "cy": 223,
+        "a": 32,
+        "b": 6,
+        "angle": 7.413029150268901,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0102.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0103.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 122,
+        "cy": 408,
+        "a": 23,
+        "b": 6,
+        "angle": 168.33632675390274,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 367,
+        "cy": 133,
+        "a": 29,
+        "b": 11,
+        "angle": 118.94762129386513,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0104.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 63,
+        "cy": 61,
+        "a": 37,
+        "b": 13,
+        "angle": 156.9210419865963,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 171,
+        "cy": 196,
+        "a": 37,
+        "b": 8,
+        "angle": 133.970231807092,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 358,
+        "cy": 232,
+        "a": 33,
+        "b": 6,
+        "angle": 3.755005072476858,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0105.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 84,
+        "cy": 142,
+        "a": 36,
+        "b": 5,
+        "angle": 151.28143312984804,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 208,
+        "cy": 73,
+        "a": 34,
+        "b": 9,
+        "angle": 62.268298658453325,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0106.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0107.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 384,
+        "cy": 311,
+        "a": 21,
+        "b": 14,
+        "angle": 178.58399694132103,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 235,
+        "cy": 295,
+        "a": 26,
+        "b": 7,
+        "angle": 112.1339850414269,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 70,
+        "cy": 274,
+        "a": 17,
+        "b": 14,
+        "angle": 128.84849364277594,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 527,
+        "cy": 136,
+        "a": 24,
+        "b": 6,
+        "angle": 32.57585148770816,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0108.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0109.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 194,
+        "cy": 428,
+        "a": 39,
+        "b": 13,
+        "angle": 71.82827030467999,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 212,
+        "cy": 278,
+        "a": 19,
+        "b": 5,
+        "angle": 139.22516262358812,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 350,
+        "cy": 352,
+        "a": 25,
+        "b": 14,
+        "angle": 13.229414519402278,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0110.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 182,
+        "cy": 325,
+        "a": 22,
+        "b": 5,
+        "angle": 45.45500077357546,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 333,
+        "cy": 170,
+        "a": 25,
+        "b": 9,
+        "angle": 64.2117695472003,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0111.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 300,
+        "cy": 419,
+        "a": 28,
+        "b": 6,
+        "angle": 22.134745535332808,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 342,
+        "cy": 69,
+        "a": 15,
+        "b": 11,
+        "angle": 40.446211855082396,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 534,
+        "cy": 294,
+        "a": 19,
+        "b": 5,
+        "angle": 91.30226556391064,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 255,
+        "cy": 61,
+        "a": 24,
+        "b": 8,
+        "angle": 177.59342213259245,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0112.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 477,
+        "cy": 343,
+        "a": 34,
+        "b": 11,
+        "angle": 5.395246177082031,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 357,
+        "cy": 385,
+        "a": 32,
+        "b": 14,
+        "angle": 131.92180530144154,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0113.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 407,
+        "cy": 54,
+        "a": 29,
+        "b": 10,
+        "angle": 45.955174451117735,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0114.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 394,
+        "cy": 351,
+        "a": 18,
+        "b": 5,
+        "angle": 108.1097176583225,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 336,
+        "cy": 191,
+        "a": 35,
+        "b": 9,
+        "angle": 103.89334260811466,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 269,
+        "cy": 241,
+        "a": 20,
+        "b": 13,
+        "angle": 155.95896015497618,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 138,
+        "cy": 225,
+        "a": 27,
+        "b": 13,
+        "angle": 16.286705151669135,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 208,
+        "cy": 373,
+        "a": 16,
+        "b": 10,
+        "angle": 58.865969081382964,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0115.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 504,
+        "cy": 138,
+        "a": 35,
+        "b": 5,
+        "angle": 65.96307627685162,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0116.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 466,
+        "cy": 354,
+        "a": 31,
+        "b": 7,
+        "angle": 40.90853290736727,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 316,
+        "cy": 404,
+        "a": 22,
+        "b": 14,
+        "angle": 136.68197902611587,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0117.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 182,
+        "cy": 353,
+        "a": 19,
+        "b": 8,
+        "angle": 109.42291670282003,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 392,
+        "cy": 375,
+        "a": 28,
+        "b": 6,
+        "angle": 128.7883632778694,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 476,
+        "cy": 70,
+        "a": 37,
+        "b": 11,
+        "angle": 161.40857217122203,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 166,
+        "cy": 173,
+        "a": 29,
+        "b": 13,
+        "angle": 117.84475465764267,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 100,
+        "cy": 320,
+        "a": 18,
+        "b": 9,
+        "angle": 86.25298129984799,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0118.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 51,
+        "cy": 126,
+        "a": 18,
+        "b": 14,
+        "angle": 21.93949680065056,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 508,
+        "cy": 312,
+        "a": 26,
+        "b": 14,
+        "angle": 143.9605971763239,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 208,
+        "cy": 120,
+        "a": 38,
+        "b": 5,
+        "angle": 102.11619953320263,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 347,
+        "cy": 85,
+        "a": 34,
+        "b": 8,
+        "angle": 15.667013265778555,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0119.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 570,
+        "cy": 320,
+        "a": 24,
+        "b": 12,
+        "angle": 73.98512456520685,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 201,
+        "cy": 257,
+        "a": 31,
+        "b": 14,
+        "angle": 46.01609960566901,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 99,
+        "cy": 201,
+        "a": 33,
+        "b": 8,
+        "angle": 76.2728856567773,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 251,
+        "cy": 394,
+        "a": 32,
+        "b": 7,
+        "angle": 112.29467844178315,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 488,
+        "cy": 291,
+        "a": 19,
+        "b": 5,
+        "angle": 132.63727408995277,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0120.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 126,
+        "cy": 303,
+        "a": 39,
+        "b": 6,
+        "angle": 49.41724572002257,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 312,
+        "cy": 134,
+        "a": 32,
+        "b": 7,
+        "angle": 79.68905402031488,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 216,
+        "cy": 290,
+        "a": 25,
+        "b": 11,
+        "angle": 61.3962044053597,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0121.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 85,
+        "cy": 281,
+        "a": 19,
+        "b": 5,
+        "angle": 107.2351310740122,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 122,
+        "cy": 185,
+        "a": 15,
+        "b": 10,
+        "angle": 63.899335049748714,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0122.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 566,
+        "cy": 76,
+        "a": 35,
+        "b": 12,
+        "angle": 158.41423576106249,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0123.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 391,
+        "cy": 375,
+        "a": 16,
+        "b": 11,
+        "angle": 68.12575622745643,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 258,
+        "cy": 340,
+        "a": 16,
+        "b": 11,
+        "angle": 83.73701021106926,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0124.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 336,
+        "cy": 352,
+        "a": 39,
+        "b": 11,
+        "angle": 96.44898320515463,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 495,
+        "cy": 207,
+        "a": 39,
+        "b": 11,
+        "angle": 136.1093992011443,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0125.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 397,
+        "cy": 164,
+        "a": 22,
+        "b": 10,
+        "angle": 178.64703038850755,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 297,
+        "cy": 413,
+        "a": 15,
+        "b": 13,
+        "angle": 120.88051985034672,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 133,
+        "cy": 280,
+        "a": 15,
+        "b": 9,
+        "angle": 148.6921734454551,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0126.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 410,
+        "cy": 390,
+        "a": 16,
+        "b": 13,
+        "angle": 99.68440332822773,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0127.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 455,
+        "cy": 192,
+        "a": 36,
+        "b": 9,
+        "angle": 70.3876973504714,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 61,
+        "cy": 288,
+        "a": 31,
+        "b": 14,
+        "angle": 97.15187137678971,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 478,
+        "cy": 340,
+        "a": 38,
+        "b": 14,
+        "angle": 156.25020421934107,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 183,
+        "cy": 116,
+        "a": 30,
+        "b": 11,
+        "angle": 54.842245037647345,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0128.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 515,
+        "cy": 255,
+        "a": 34,
+        "b": 6,
+        "angle": 115.37497392215977,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0129.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 144,
+        "cy": 319,
+        "a": 15,
+        "b": 10,
+        "angle": 149.27983292543107,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 485,
+        "cy": 74,
+        "a": 27,
+        "b": 9,
+        "angle": 21.917144002549463,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0130.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0131.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 581,
+        "cy": 195,
+        "a": 20,
+        "b": 6,
+        "angle": 117.03619663166761,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 516,
+        "cy": 336,
+        "a": 33,
+        "b": 9,
+        "angle": 140.53708549231916,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 394,
+        "cy": 179,
+        "a": 25,
+        "b": 6,
+        "angle": 10.400500979345995,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 105,
+        "cy": 132,
+        "a": 23,
+        "b": 7,
+        "angle": 13.433366580674708,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0132.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 150,
+        "cy": 408,
+        "a": 34,
+        "b": 8,
+        "angle": 118.03026106109813,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 471,
+        "cy": 280,
+        "a": 32,
+        "b": 9,
+        "angle": 159.58875874328402,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 532,
+        "cy": 56,
+        "a": 36,
+        "b": 11,
+        "angle": 132.05058850105237,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0133.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0134.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 472,
+        "cy": 114,
+        "a": 27,
+        "b": 9,
+        "angle": 150.17460587185815,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 542,
+        "cy": 262,
+        "a": 35,
+        "b": 6,
+        "angle": 11.631002371935505,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 213,
+        "cy": 237,
+        "a": 25,
+        "b": 9,
+        "angle": 151.98427489313087,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0135.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 485,
+        "cy": 91,
+        "a": 35,
+        "b": 14,
+        "angle": 160.5752440092422,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 154,
+        "cy": 241,
+        "a": 31,
+        "b": 12,
+        "angle": 56.77324123464229,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 178,
+        "cy": 179,
+        "a": 30,
+        "b": 5,
+        "angle": 151.35688429666607,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0136.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 128,
+        "cy": 392,
+        "a": 38,
+        "b": 7,
+        "angle": 19.024826383129337,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 498,
+        "cy": 136,
+        "a": 19,
+        "b": 12,
+        "angle": 7.501122108429168,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 554,
+        "cy": 136,
+        "a": 25,
+        "b": 5,
+        "angle": 12.975180479761207,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0137.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 485,
+        "cy": 260,
+        "a": 21,
+        "b": 7,
+        "angle": 33.335202216144225,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 540,
+        "cy": 310,
+        "a": 19,
+        "b": 10,
+        "angle": 137.58707919991247,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 369,
+        "cy": 187,
+        "a": 20,
+        "b": 5,
+        "angle": 53.180059945935646,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0138.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 431,
+        "cy": 373,
+        "a": 28,
+        "b": 13,
+        "angle": 115.90276563740352,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0139.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 537,
+        "cy": 307,
+        "a": 36,
+        "b": 9,
+        "angle": 165.6534926194934,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 337,
+        "cy": 337,
+        "a": 16,
+        "b": 14,
+        "angle": 60.88815107900971,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0140.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 173,
+        "cy": 163,
+        "a": 36,
+        "b": 8,
+        "angle": 43.32468812985089,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0141.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 171,
+        "cy": 81,
+        "a": 37,
+        "b": 11,
+        "angle": 152.37258096425003,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 282,
+        "cy": 67,
+        "a": 35,
+        "b": 9,
+        "angle": 176.11151018410726,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0142.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 305,
+        "cy": 135,
+        "a": 36,
+        "b": 13,
+        "angle": 168.72985196948142,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0143.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 262,
+        "cy": 332,
+        "a": 32,
+        "b": 7,
+        "angle": 27.12169938777793,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0144.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 68,
+        "cy": 72,
+        "a": 21,
+        "b": 13,
+        "angle": 137.00187666776844,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 160,
+        "cy": 185,
+        "a": 24,
+        "b": 14,
+        "angle": 1.6796915688767933,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 178,
+        "cy": 413,
+        "a": 19,
+        "b": 7,
+        "angle": 178.52579124288542,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0145.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 161,
+        "cy": 62,
+        "a": 23,
+        "b": 8,
+        "angle": 94.34865073070921,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 283,
+        "cy": 139,
+        "a": 36,
+        "b": 5,
+        "angle": 1.985690567243843,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0146.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 119,
+        "cy": 361,
+        "a": 33,
+        "b": 9,
+        "angle": 22.448530244050286,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0147.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 454,
+        "cy": 251,
+        "a": 20,
+        "b": 8,
+        "angle": 32.63747038659094,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 69,
+        "cy": 322,
+        "a": 37,
+        "b": 11,
+        "angle": 86.57512017950228,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 575,
+        "cy": 52,
+        "a": 38,
+        "b": 9,
+        "angle": 104.39708173706363,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 104,
+        "cy": 425,
+        "a": 38,
+        "b": 6,
+        "angle": 107.8864138193281,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0148.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 158,
+        "cy": 125,
+        "a": 20,
+        "b": 9,
+        "angle": 141.95069364103315,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 68,
+        "cy": 222,
+        "a": 18,
+        "b": 11,
+        "angle": 132.39100916775678,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0149.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 352,
+        "cy": 362,
+        "a": 36,
+        "b": 5,
+        "angle": 75.82464959293296,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0150.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 448,
+        "cy": 247,
+        "a": 29,
+        "b": 11,
+        "angle": 102.93700882089358,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0151.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 187,
+        "cy": 99,
+        "a": 17,
+        "b": 5,
+        "angle": 105.44582627494235,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0152.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 351,
+        "cy": 118,
+        "a": 19,
+        "b": 8,
+        "angle": 144.47579576322786,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 123,
+        "cy": 241,
+        "a": 19,
+        "b": 8,
+        "angle": 24.026395034869882,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 309,
+        "cy": 175,
+        "a": 21,
+        "b": 11,
+        "angle": 89.36300742395396,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0153.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0154.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0155.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 457,
+        "cy": 413,
+        "a": 24,
+        "b": 10,
+        "angle": 47.10702307246307,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0156.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 254,
+        "cy": 119,
+        "a": 26,
+        "b": 13,
+        "angle": 87.76281486120918,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 299,
+        "cy": 412,
+        "a": 39,
+        "b": 9,
+        "angle": 95.83572280953908,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 568,
+        "cy": 119,
+        "a": 29,
+        "b": 6,
+        "angle": 131.84077173085615,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0157.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 70,
+        "cy": 131,
+        "a": 19,
+        "b": 7,
+        "angle": 130.52803095920066,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 354,
+        "cy": 420,
+        "a": 39,
+        "b": 9,
+        "angle": 109.53490908536398,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 494,
+        "cy": 210,
+        "a": 32,
+        "b": 9,
+        "angle": 40.55704739122232,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 539,
+        "cy": 376,
+        "a": 36,
+        "b": 11,
+        "angle": 98.11899508692595,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 403,
+        "cy": 77,
+        "a": 25,
+        "b": 13,
+        "angle": 142.5059979216033,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0158.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 71,
+        "cy": 161,
+        "a": 39,
+        "b": 6,
+        "angle": 17.561251843073954,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0159.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 343,
+        "cy": 108,
+        "a": 24,
+        "b": 7,
+        "angle": 9.352183959768315,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 81,
+        "cy": 326,
+        "a": 34,
+        "b": 14,
+        "angle": 59.43871167686956,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 263,
+        "cy": 192,
+        "a": 38,
+        "b": 12,
+        "angle": 158.00941406736735,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0160.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 303,
+        "cy": 93,
+        "a": 15,
+        "b": 14,
+        "angle": 89.60625144617224,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 485,
+        "cy": 328,
+        "a": 39,
+        "b": 6,
+        "angle": 16.81343495555321,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0161.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 57,
+        "cy": 346,
+        "a": 18,
+        "b": 9,
+        "angle": 114.22483515905468,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0162.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 287,
+        "cy": 153,
+        "a": 32,
+        "b": 14,
+        "angle": 80.56852925763906,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0163.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 89,
+        "cy": 269,
+        "a": 15,
+        "b": 11,
+        "angle": 33.16047106284471,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 309,
+        "cy": 415,
+        "a": 36,
+        "b": 7,
+        "angle": 158.83494631332098,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 573,
+        "cy": 351,
+        "a": 37,
+        "b": 5,
+        "angle": 75.19697626951795,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 582,
+        "cy": 207,
+        "a": 27,
+        "b": 6,
+        "angle": 29.8718811532413,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0164.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0165.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0166.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 276,
+        "cy": 238,
+        "a": 23,
+        "b": 8,
+        "angle": 165.27743993209953,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 260,
+        "cy": 109,
+        "a": 26,
+        "b": 13,
+        "angle": 84.81022180790663,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0167.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 326,
+        "cy": 205,
+        "a": 38,
+        "b": 14,
+        "angle": 18.114746134236,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 90,
+        "cy": 356,
+        "a": 29,
+        "b": 6,
+        "angle": 134.78874065339517,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 328,
+        "cy": 225,
+        "a": 36,
+        "b": 5,
+        "angle": 151.4605595552568,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0168.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0169.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 532,
+        "cy": 297,
+        "a": 29,
+        "b": 11,
+        "angle": 30.083762064819826,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0170.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 240,
+        "cy": 116,
+        "a": 18,
+        "b": 14,
+        "angle": 92.27785556610952,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 192,
+        "cy": 240,
+        "a": 35,
+        "b": 7,
+        "angle": 137.36795242660008,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0171.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 256,
+        "cy": 259,
+        "a": 33,
+        "b": 5,
+        "angle": 157.36081034490329,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 268,
+        "cy": 140,
+        "a": 16,
+        "b": 12,
+        "angle": 68.31052260744934,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 191,
+        "cy": 149,
+        "a": 35,
+        "b": 12,
+        "angle": 23.19276816004587,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0172.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 473,
+        "cy": 393,
+        "a": 28,
+        "b": 14,
+        "angle": 173.92381392722368,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0173.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 376,
+        "cy": 255,
+        "a": 23,
+        "b": 11,
+        "angle": 95.88165961707989,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 447,
+        "cy": 169,
+        "a": 20,
+        "b": 9,
+        "angle": 97.32572579608386,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 514,
+        "cy": 335,
+        "a": 23,
+        "b": 5,
+        "angle": 84.37823378361105,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 138,
+        "cy": 191,
+        "a": 25,
+        "b": 9,
+        "angle": 53.50280538755109,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 383,
+        "cy": 271,
+        "a": 23,
+        "b": 8,
+        "angle": 11.608428824850156,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0174.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 84,
+        "cy": 316,
+        "a": 28,
+        "b": 6,
+        "angle": 103.20288221433924,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 374,
+        "cy": 353,
+        "a": 34,
+        "b": 9,
+        "angle": 107.8161314718979,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0175.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 480,
+        "cy": 381,
+        "a": 36,
+        "b": 13,
+        "angle": 61.34682596217239,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 455,
+        "cy": 281,
+        "a": 35,
+        "b": 7,
+        "angle": 80.14430021126186,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 554,
+        "cy": 206,
+        "a": 33,
+        "b": 8,
+        "angle": 121.7567452209106,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 397,
+        "cy": 77,
+        "a": 18,
+        "b": 10,
+        "angle": 141.61506032779866,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 541,
+        "cy": 243,
+        "a": 38,
+        "b": 6,
+        "angle": 85.12148390596288,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0176.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0177.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0178.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 411,
+        "cy": 142,
+        "a": 27,
+        "b": 5,
+        "angle": 112.05354523135414,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 191,
+        "cy": 340,
+        "a": 30,
+        "b": 8,
+        "angle": 37.25866411891682,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0179.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0180.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0181.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 390,
+        "cy": 294,
+        "a": 31,
+        "b": 14,
+        "angle": 52.8279881774619,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0182.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 232,
+        "cy": 90,
+        "a": 21,
+        "b": 7,
+        "angle": 81.10746341696412,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 176,
+        "cy": 95,
+        "a": 27,
+        "b": 5,
+        "angle": 70.17702352947794,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 68,
+        "cy": 381,
+        "a": 22,
+        "b": 12,
+        "angle": 120.76974085365143,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0183.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 223,
+        "cy": 392,
+        "a": 27,
+        "b": 11,
+        "angle": 7.300572758042656,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 373,
+        "cy": 210,
+        "a": 18,
+        "b": 6,
+        "angle": 16.611262573186302,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 461,
+        "cy": 133,
+        "a": 31,
+        "b": 5,
+        "angle": 72.76315133595766,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0184.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 259,
+        "cy": 100,
+        "a": 36,
+        "b": 13,
+        "angle": 110.26322430206746,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 589,
+        "cy": 308,
+        "a": 34,
+        "b": 10,
+        "angle": 21.700514952664246,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 563,
+        "cy": 142,
+        "a": 20,
+        "b": 7,
+        "angle": 96.11414505859749,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 345,
+        "cy": 307,
+        "a": 31,
+        "b": 13,
+        "angle": 75.96616682297503,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0185.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 328,
+        "cy": 343,
+        "a": 35,
+        "b": 10,
+        "angle": 153.33142263731057,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 469,
+        "cy": 148,
+        "a": 27,
+        "b": 11,
+        "angle": 97.65618633580526,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 79,
+        "cy": 237,
+        "a": 26,
+        "b": 6,
+        "angle": 69.16313162472863,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0186.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 167,
+        "cy": 149,
+        "a": 15,
+        "b": 12,
+        "angle": 67.41951966362184,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 489,
+        "cy": 205,
+        "a": 19,
+        "b": 11,
+        "angle": 25.666945934743573,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0187.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 251,
+        "cy": 175,
+        "a": 25,
+        "b": 5,
+        "angle": 18.22678463072861,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0188.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 253,
+        "cy": 370,
+        "a": 18,
+        "b": 5,
+        "angle": 25.29953416410494,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 425,
+        "cy": 393,
+        "a": 17,
+        "b": 8,
+        "angle": 17.87439649566473,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0189.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 174,
+        "cy": 294,
+        "a": 24,
+        "b": 9,
+        "angle": 150.38644254881896,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 219,
+        "cy": 173,
+        "a": 19,
+        "b": 7,
+        "angle": 159.91266101556263,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0190.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 158,
+        "cy": 273,
+        "a": 30,
+        "b": 10,
+        "angle": 97.45336932256534,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 214,
+        "cy": 354,
+        "a": 27,
+        "b": 6,
+        "angle": 30.30065206544344,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 428,
+        "cy": 392,
+        "a": 33,
+        "b": 7,
+        "angle": 54.419984883268874,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 465,
+        "cy": 158,
+        "a": 33,
+        "b": 14,
+        "angle": 10.376564795824478,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0191.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 329,
+        "cy": 174,
+        "a": 17,
+        "b": 6,
+        "angle": 88.00160972264125,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 484,
+        "cy": 322,
+        "a": 17,
+        "b": 6,
+        "angle": 112.21307246869922,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0192.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 333,
+        "cy": 54,
+        "a": 31,
+        "b": 9,
+        "angle": 97.74442511237937,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0193.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0194.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 189,
+        "cy": 295,
+        "a": 35,
+        "b": 10,
+        "angle": 142.2917629694793,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 525,
+        "cy": 54,
+        "a": 31,
+        "b": 12,
+        "angle": 49.63816228524425,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0195.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 277,
+        "cy": 151,
+        "a": 25,
+        "b": 5,
+        "angle": 101.28810582402106,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 456,
+        "cy": 252,
+        "a": 39,
+        "b": 7,
+        "angle": 103.91022526196362,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 131,
+        "cy": 141,
+        "a": 33,
+        "b": 8,
+        "angle": 145.18608161872987,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0196.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0197.png",
+    "width": 640,
+    "height": 480,
+    "objects": []
+  },
+  {
+    "image": "synth_0198.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 372,
+        "cy": 374,
+        "a": 27,
+        "b": 11,
+        "angle": 3.4408969973575254,
+        "class": "Eustrongylides"
+      },
+      {
+        "cx": 529,
+        "cy": 71,
+        "a": 36,
+        "b": 7,
+        "angle": 124.65583767667944,
+        "class": "Eustrongylides"
+      }
+    ]
+  },
+  {
+    "image": "synth_0199.png",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "cx": 243,
+        "cy": 218,
+        "a": 38,
+        "b": 7,
+        "angle": 37.92689349609657,
+        "class": "Eustrongylides"
+      }
+    ]
+  }
+]

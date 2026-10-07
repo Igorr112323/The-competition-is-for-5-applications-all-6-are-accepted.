@@ -1,0 +1,86 @@
+solid lamp_device
+  facet normal 0 0 -1
+    outer loop
+      vertex 0 0 0
+      vertex 250 0 0
+      vertex 250 200 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 0 0 0
+      vertex 250 200 0
+      vertex 0 200 0
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 120
+      vertex 250 200 120
+      vertex 250 0 120
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 120
+      vertex 0 200 120
+      vertex 250 200 120
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 0 0 0
+      vertex 250 0 120
+      vertex 250 0 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 0 0 0
+      vertex 0 0 120
+      vertex 250 0 120
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 0 200 0
+      vertex 250 200 0
+      vertex 250 200 120
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 0 200 0
+      vertex 250 200 120
+      vertex 0 200 120
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 0 0 0
+      vertex 0 200 0
+      vertex 0 200 120
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 0 0 0
+      vertex 0 200 120
+      vertex 0 0 120
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 250 0 0
+      vertex 250 0 120
+      vertex 250 200 120
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 250 0 0
+      vertex 250 200 120
+      vertex 250 200 0
+    endloop
+  endfacet
+endsolid lamp_device

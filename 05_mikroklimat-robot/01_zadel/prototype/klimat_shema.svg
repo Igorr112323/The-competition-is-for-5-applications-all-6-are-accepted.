@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#FFFFFF"/>
+  <text x="600" y="30" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#1F2937">Электрическая схема КлиматРобот-5</text>
+  <rect x="20" y="350" width="120" height="80" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="2"/>
+  <text x="80" y="395" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">LiFePO₄</text>
+  <text x="80" y="410" text-anchor="middle" font-family="Arial" font-size="10">12.6В 6Ач</text>
+  <rect x="200" y="300" width="120" height="60" fill="#F59E0B" fill-opacity="0.15" stroke="#F59E0B" stroke-width="2"/>
+  <text x="260" y="335" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">DC-DC 5В</text>
+  <rect x="200" y="400" width="120" height="60" fill="#F59E0B" fill-opacity="0.15" stroke="#F59E0B" stroke-width="2"/>
+  <text x="260" y="435" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">Драйверы</text>
+  <text x="260" y="450" text-anchor="middle" font-family="Arial" font-size="10">A4988 ×2</text>
+  <rect x="420" y="250" width="200" height="200" fill="#2563EB" fill-opacity="0.15" stroke="#2563EB" stroke-width="2"/>
+  <text x="520" y="285" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Raspberry Pi 4B</text>
+  <text x="440" y="310" font-family="Arial" font-size="9" fill="#1F2937">USB → RPLIDAR A3</text>
+  <text x="440" y="325" font-family="Arial" font-size="9" fill="#1F2937">I2C → SHT45, SGP41, SCD41, TSL2591</text>
+  <text x="440" y="340" font-family="Arial" font-size="9" fill="#1F2937">GPIO → A4988 (STEP/DIR) ×2</text>
+  <text x="440" y="355" font-family="Arial" font-size="9" fill="#1F2937">SPI → LoRa SX1276</text>
+  <text x="440" y="370" font-family="Arial" font-size="9" fill="#1F2937">UART → GPS (опц.)</text>
+  <text x="440" y="385" font-family="Arial" font-size="9" fill="#1F2937">GPIO → Buzzer</text>
+  <text x="440" y="400" font-family="Arial" font-size="9" fill="#1F2937">microSD → Карта данных</text>
+  <text x="440" y="415" font-family="Arial" font-size="9" fill="#1F2937">Ethernet → Wi-Fi (отладка)</text>
+  <rect x="700" y="200" width="160" height="60" fill="#EF4444" fill-opacity="0.15" stroke="#EF4444" stroke-width="2"/>
+  <text x="780" y="235" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">RPLIDAR A3</text>
+  <text x="780" y="250" text-anchor="middle" font-family="Arial" font-size="10">360°, 16м</text>
+  <rect x="700" y="300" width="160" height="120" fill="#8B5CF6" fill-opacity="0.15" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="780" y="325" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">Датчики (×5)</text>
+  <text x="780" y="345" text-anchor="middle" font-family="Arial" font-size="10">SHT45 (T/RH)</text>
+  <text x="780" y="360" text-anchor="middle" font-family="Arial" font-size="10">SGP41 (VOC)</text>
+  <text x="780" y="375" text-anchor="middle" font-family="Arial" font-size="10">SCD41 (CO₂)</text>
+  <text x="780" y="390" text-anchor="middle" font-family="Arial" font-size="10">TSL2591 (лк)</text>
+  <text x="780" y="405" text-anchor="middle" font-family="Arial" font-size="10">NTC (T_корпус)</text>
+  <rect x="700" y="460" width="160" height="60" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="2"/>
+  <text x="780" y="490" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">LoRa SX1276</text>
+  <text x="780" y="505" text-anchor="middle" font-family="Arial" font-size="10">868 МГц</text>
+  <rect x="200" y="500" width="120" height="60" fill="#6366F1" fill-opacity="0.15" stroke="#6366F1" stroke-width="2"/>
+  <text x="260" y="530" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">Моторы</text>
+  <text x="260" y="545" text-anchor="middle" font-family="Arial" font-size="10">NEMA 17 ×2</text>
+  <line x1="140" y1="390" x2="200" y2="340" stroke="#1F2937" stroke-width="2"/>
+  <line x1="320" y1="330" x2="420" y2="330" stroke="#1F2937" stroke-width="2"/>
+  <line x1="320" y1="430" x2="420" y2="400" stroke="#1F2937" stroke-width="2"/>
+  <line x1="620" y1="300" x2="700" y2="230" stroke="#EF4444" stroke-width="1.5"/>
+  <line x1="620" y1="350" x2="700" y2="360" stroke="#8B5CF6" stroke-width="1.5"/>
+  <line x1="620" y1="400" x2="700" y2="490" stroke="#10B981" stroke-width="1.5"/>
+  <line x1="320" y1="530" x2="420" y2="430" stroke="#6366F1" stroke-width="1.5"/>
+</svg>

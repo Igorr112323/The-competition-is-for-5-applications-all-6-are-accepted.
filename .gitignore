@@ -1,0 +1,43 @@
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*~
+*.autosave
+
+# Черновики
+*_draft.*
+*_черновик.*
+
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# LibreOffice lock
+.~lock.*
+
+# Кэш
+.cache/
+
+# Промежуточные сборки
+build/
+dist/
+
+# Приватные ключи и токены
+*.pem
+*.key
+.env

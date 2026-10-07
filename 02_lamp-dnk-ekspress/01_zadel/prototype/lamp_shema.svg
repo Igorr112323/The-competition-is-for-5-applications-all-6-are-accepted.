@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="1200" height="800" fill="#FFFFFF"/>
+  <text x="600" y="30" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#1F2937">Электрическая схема LAMP-ДНК-Экспресс</text>
+
+  <!-- USB-C -->
+  <rect x="20" y="350" width="120" height="80" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="2"/>
+  <text x="80" y="395" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">USB-C</text>
+  <text x="80" y="410" text-anchor="middle" font-family="Arial" font-size="10">5 В / 3 А</text>
+
+  <!-- DC-DC -->
+  <rect x="200" y="350" width="120" height="80" fill="#F59E0B" fill-opacity="0.15" stroke="#F59E0B" stroke-width="2"/>
+  <text x="260" y="385" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">DC-DC</text>
+  <text x="260" y="400" text-anchor="middle" font-family="Arial" font-size="10">3.3 В</text>
+  <text x="260" y="415" text-anchor="middle" font-family="Arial" font-size="10">TPS63020</text>
+
+  <!-- LiPo BMS -->
+  <rect x="200" y="480" width="120" height="80" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="2"/>
+  <text x="260" y="515" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">LiPo BMS</text>
+  <text x="260" y="530" text-anchor="middle" font-family="Arial" font-size="10">3.7 В 5000 мА·ч</text>
+  <text x="260" y="545" text-anchor="middle" font-family="Arial" font-size="10">TP4056</text>
+
+  <!-- MCU nRF52840 -->
+  <rect x="420" y="300" width="200" height="180" fill="#2563EB" fill-opacity="0.15" stroke="#2563EB" stroke-width="2"/>
+  <text x="520" y="335" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">nRF52840</text>
+  <text x="520" y="355" text-anchor="middle" font-family="Arial" font-size="10">MCU + BLE 5.0</text>
+  <text x="440" y="380" font-family="Arial" font-size="9" fill="#1F2937">P0.13 → NTC_1 (ADC)</text>
+  <text x="440" y="395" font-family="Arial" font-size="9" fill="#1F2937">P0.14 → NTC_2 (ADC)</text>
+  <text x="440" y="410" font-family="Arial" font-size="9" fill="#1F2937">P0.15 → PID (PWM→HEATER)</text>
+  <text x="440" y="425" font-family="Arial" font-size="9" fill="#1F2937">P0.16 → PHOTO_1 (ADC)</text>
+  <text x="440" y="440" font-family="Arial" font-size="9" fill="#1F2937">P0.17 → PHOTO_2 (ADC)</text>
+  <text x="440" y="455" font-family="Arial" font-size="9" fill="#1F2937">I2C → OLED SSD1306</text>
+  <text x="440" y="470" font-family="Arial" font-size="9" fill="#1F2937">P0.20 → LED_470nm (×4)</text>
+
+  <!-- Нагреватель -->
+  <rect x="700" y="150" width="160" height="80" fill="#EF4444" fill-opacity="0.15" stroke="#EF4444" stroke-width="2"/>
+  <text x="780" y="185" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">Нагреватель</text>
+  <text x="780" y="200" text-anchor="middle" font-family="Arial" font-size="10">8 Вт, 65 °C</text>
+  <text x="780" y="215" text-anchor="middle" font-family="Arial" font-size="10">Картридж + алюм. блок</text>
+
+  <!-- NTC -->
+  <rect x="700" y="260" width="160" height="60" fill="#F59E0B" fill-opacity="0.15" stroke="#F59E0B" stroke-width="2"/>
+  <text x="780" y="290" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">NTC 10 кОм</text>
+  <text x="780" y="305" text-anchor="middle" font-family="Arial" font-size="10">Термометр (×2)</text>
+
+  <!-- 4 лунки -->
+  <rect x="700" y="360" width="160" height="120" fill="#8B5CF6" fill-opacity="0.15" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="780" y="390" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">4 лунки</text>
+  <text x="780" y="410" text-anchor="middle" font-family="Arial" font-size="10">Пробирки 0.2 мл</text>
+  <text x="780" y="425" text-anchor="middle" font-family="Arial" font-size="10">HNB-индикатор</text>
+  <text x="780" y="445" text-anchor="middle" font-family="Arial" font-size="10">Фотодиоды (×4)</text>
+  <text x="780" y="460" text-anchor="middle" font-family="Arial" font-size="10">LED 470 нм (×4)</text>
+
+  <!-- OLED -->
+  <rect x="700" y="520" width="160" height="60" fill="#EC4899" fill-opacity="0.15" stroke="#EC4899" stroke-width="2"/>
+  <text x="780" y="550" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">OLED 0.96"</text>
+  <text x="780" y="565" text-anchor="middle" font-family="Arial" font-size="10">SSD1306, I2C</text>
+
+  <!-- BLE antenna -->
+  <rect x="420" y="530" width="200" height="60" fill="#6366F1" fill-opacity="0.15" stroke="#6366F1" stroke-width="2"/>
+  <text x="520" y="555" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">Антенна BLE</text>
+  <text x="520" y="570" text-anchor="middle" font-family="Arial" font-size="10">2.4 ГГц, PCB-антенна</text>
+
+  <!-- Соединения -->
+  <line x1="140" y1="390" x2="200" y2="390" stroke="#1F2937" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="260" y1="430" x2="260" y2="480" stroke="#1F2937" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <line x1="320" y1="390" x2="420" y2="390" stroke="#1F2937" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="620" y1="350" x2="700" y2="190" stroke="#EF4444" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+  <line x1="620" y1="370" x2="700" y2="290" stroke="#F59E0B" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+  <line x1="620" y1="400" x2="700" y2="420" stroke="#8B5CF6" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+  <line x1="620" y1="450" x2="700" y2="550" stroke="#EC4899" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+  <line x1="520" y1="480" x2="520" y2="530" stroke="#6366F1" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1F2937"/>
+    </marker>
+  </defs>
+</svg>

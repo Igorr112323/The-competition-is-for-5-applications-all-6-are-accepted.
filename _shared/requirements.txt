@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+openpyxl>=3.1
+ezdxf>=0.18
+trimesh>=3.20
+Pillow>=9.5
